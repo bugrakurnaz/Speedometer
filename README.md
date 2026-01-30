@@ -2,6 +2,10 @@
 
 This is a program to be run on STM32F407. It communicates via UART with a middleware, that in turn communicates with ETS2 Telemetry Server to display speed information on a 20x4 Monochrome LCD Panel.
 
+Here are the links to these programs:
+https://github.com/bugrakurnaz/Speedometer-Telemetry-Serial-Server
+https://github.com/Funbit/ets2-telemetry-server
+
 # Prerequisities
 
 1. STM32F407G-DISC1 Board.
