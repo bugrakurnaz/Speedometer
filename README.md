@@ -15,17 +15,22 @@ https://github.com/Funbit/ets2-telemetry-server
 
 # PIN Connections
 
-I2C Expansion cable:
+**I2C Expansion cable:**
 
 Yellow -> 5V output of STM32
+
 Red -> PC9 pin
+
 Orange -> PA8 pin
+
 White -> GND of STM32
 
-UART Cable:
+**UART Cable:**
 
 Green -> PB11 
+
 White -> PD8
+
 Black -> GND
 
 # Run Configuration
